@@ -1,0 +1,17 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,36,&H00FFFFFF,&H00FFFFFF,&H00171717,&H80000000,0,0,0,0,100,100,0,0,3,2,0,2,95,95,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:03.91,Default,,0,0,0,,The fix is a versioned script, not a one off patch.
+Dialogue: 0,0:00:03.86,0:00:10.11,Default,,0,0,0,,Two value preserving transforms: strip the suffix, and move the minus sign outside the macro.
+Dialogue: 0,0:00:10.11,0:00:14.13,Default,,0,0,0,,Two edge cases are excluded and routed to an expert.
+Dialogue: 0,0:00:14.13,0:00:17.36,Default,,0,0,0,,The values are identical before and after.
+Dialogue: 1,0:00:16.00,0:00:17.40,Default,,0,0,0,,{\an8\fs28\pos(960,100)}zuwasi/iso14229, tools/rule75_v1.py: versioned, fixture-tested

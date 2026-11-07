@@ -1,0 +1,17 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,36,&H00FFFFFF,&H00FFFFFF,&H00171717,&H80000000,0,0,0,0,100,100,0,0,3,2,0,2,95,95,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:03.80,Default,,0,0,0,,Each fix is one commit on its own stacked branch.
+Dialogue: 0,0:00:03.75,0:00:08.71,Default,,0,0,0,,The assert macro rewrite removes one hundred and twenty three findings.
+Dialogue: 0,0:00:08.71,0:00:11.83,Default,,0,0,0,,Unsigned typedefs remove sixty eight.
+Dialogue: 0,0:00:11.83,0:00:15.23,Default,,0,0,0,,Explicit comparisons remove thirty four.
+Dialogue: 0,0:00:15.23,0:00:18.86,Default,,0,0,0,,Reversing any step is one git command.

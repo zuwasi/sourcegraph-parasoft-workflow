@@ -1,0 +1,12 @@
+1
+00:00:00,100 --> 00:00:04,100
+Parasoft C/C++test is the judge.
+
+2
+00:00:04,050 --> 00:00:09,537
+The seed verification scan reports zero findings left, while the baseline had eight.
+
+3
+00:00:09,537 --> 00:00:12,962
+Search found the sites; Parasoft decided.
+

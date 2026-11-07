@@ -1,0 +1,16 @@
+1
+00:00:00,100 --> 00:00:06,712
+iso14229 is a real open source diagnostic protocol stack.
+
+2
+00:00:06,662 --> 00:00:10,162
+About seven and a half thousand lines of C.
+
+3
+00:00:10,162 --> 00:00:17,687
+A full MISRA C 2025 scan reports one thousand and ninety five findings, and every one of them needs a decision.
+
+4
+00:00:17,687 --> 00:00:21,200
+Nobody clicks through a thousand rows by hand.
+

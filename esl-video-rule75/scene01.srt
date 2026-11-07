@@ -1,0 +1,12 @@
+1
+00:00:00,100 --> 00:00:03,512
+The Rule 7.5 Zero Program.
+
+2
+00:00:03,462 --> 00:00:07,187
+Sourcegraph finds, Parasoft decides.
+
+3
+00:00:07,187 --> 00:00:16,975
+In about three minutes, we take a real C code base from one thousand and ninety five MISRA C 2025 findings to a verified, revertable zero.
+

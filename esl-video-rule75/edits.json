@@ -1,0 +1,58 @@
+{
+  "03": {
+    "segments": [
+      [
+        2.5,
+        21.0
+      ]
+    ],
+    "notes": [
+      {
+        "text": "eswlab tenant, seed branch: the 11 seeded Rule 7.5 candidates",
+        "from": 17,
+        "to": 18.3
+      }
+    ]
+  },
+  "04": {
+    "segments": [
+      [
+        2,
+        19.4
+      ]
+    ],
+    "notes": [
+      {
+        "text": "zuwasi/iso14229, tools/rule75_v1.py: versioned, fixture-tested",
+        "from": 16,
+        "to": 17.4
+      }
+    ]
+  },
+  "05": {
+    "segments": [
+      [
+        16,
+        24.1
+      ]
+    ],
+    "notes": [
+      {
+        "text": "demo branch: same guard query, zero results",
+        "from": 6.8,
+        "to": 8.1
+      }
+    ]
+  },
+  "06": {},
+  "07": {},
+  "08": {
+    "segments": [
+      [
+        2.5,
+        21.4
+      ]
+    ],
+    "fade_out": true
+  }
+}

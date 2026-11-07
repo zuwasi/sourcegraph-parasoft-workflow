@@ -1,0 +1,16 @@
+1
+00:00:00,100 --> 00:00:03,912
+The fix is a versioned script, not a one off patch.
+
+2
+00:00:03,862 --> 00:00:10,112
+Two value preserving transforms: strip the suffix, and move the minus sign outside the macro.
+
+3
+00:00:10,112 --> 00:00:14,137
+Two edge cases are excluded and routed to an expert.
+
+4
+00:00:14,137 --> 00:00:17,362
+The values are identical before and after.
+

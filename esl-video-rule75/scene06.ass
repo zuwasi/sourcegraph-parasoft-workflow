@@ -1,0 +1,15 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,36,&H00FFFFFF,&H00FFFFFF,&H00171717,&H80000000,0,0,0,0,100,100,0,0,3,2,0,2,95,95,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:04.10,Default,,0,0,0,,Parasoft C/C++test is the judge.
+Dialogue: 0,0:00:04.05,0:00:09.53,Default,,0,0,0,,The seed verification scan reports zero findings left, while the baseline had eight.
+Dialogue: 0,0:00:09.53,0:00:12.96,Default,,0,0,0,,Search found the sites; Parasoft decided.

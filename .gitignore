@@ -1,0 +1,6 @@
+iso14229/
+.amp/
+node_modules/
+__pycache__/
+*.py[cod]
+Thumbs.db

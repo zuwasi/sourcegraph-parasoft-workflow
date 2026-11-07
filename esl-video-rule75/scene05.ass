@@ -1,0 +1,15 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI,36,&H00FFFFFF,&H00FFFFFF,&H00171717,&H80000000,0,0,0,0,100,100,0,0,3,2,0,2,95,95,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:04.18,Default,,0,0,0,,After the fix, the same guard query returns zero.
+Dialogue: 0,0:00:04.13,0:00:08.07,Default,,0,0,0,,Even the script's own documentation cannot fool the search.
+Dialogue: 1,0:00:06.80,0:00:08.10,Default,,0,0,0,,{\an8\fs28\pos(960,100)}demo branch: same guard query, zero results

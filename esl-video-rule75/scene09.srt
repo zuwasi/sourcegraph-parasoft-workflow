@@ -1,0 +1,12 @@
+1
+00:00:00,100 --> 00:00:03,125
+One verification scan confirms it.
+
+2
+00:00:03,075 --> 00:00:07,412
+One thousand and ninety five becomes seven hundred and sixty six.
+
+3
+00:00:07,412 --> 00:00:14,537
+Three hundred and twenty nine findings removed by mechanical rewrites, and five rule classes now sit at zero.
+

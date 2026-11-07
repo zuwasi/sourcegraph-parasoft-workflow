@@ -1,0 +1,115 @@
+{
+  "output": "rule75-zero-program-demo.mp4",
+  "voice": "en-GB-RyanNeural",
+  "spoken": [
+    [
+      "eswlab",
+      "E S W lab"
+    ],
+    [
+      "iso14229",
+      "I S O fourteen thousand two hundred and twenty nine"
+    ],
+    [
+      "MISRA C 2025",
+      "MISRA C twenty twenty five"
+    ],
+    [
+      "C/C++test",
+      "C, C plus plus test"
+    ],
+    [
+      "INT32_C",
+      "INT thirty two C"
+    ],
+    [
+      "INT N C",
+      "INT N C"
+    ],
+    [
+      "7.5",
+      "seven point five"
+    ],
+    [
+      "Code Monitor",
+      "Code Monitor"
+    ],
+    [
+      "iso14229.c",
+      "I S O fourteen thousand two hundred and twenty nine dot C"
+    ],
+    [
+      "rule75_v1.py",
+      "rule seven five version one script"
+    ],
+    [
+      "git",
+      "git"
+    ],
+    [
+      "Zoekt",
+      "Zoekt"
+    ]
+  ],
+  "title_card": {
+    "scene": "01",
+    "title": [
+      "The Rule 7.5",
+      "Zero Program"
+    ],
+    "tagline": "Sourcegraph finds. Parasoft decides.",
+    "subtitle": "MISRA C 2025  |  Sourcegraph Cloud  |  Parasoft C/C++test",
+    "footer": "Demo project: iso14229  /  Parasoft 2026.1.3"
+  },
+  "slides": {
+    "02": {
+      "kicker": "The problem",
+      "headline": [
+        "1,095 MISRA C 2025 findings",
+        "in a real code base"
+      ],
+      "bullets": [
+        "iso14229: open source UDS diagnostic stack, ~7,438 lines of C",
+        "Parasoft C/C++test 2026.1.3, full amalgamation scan",
+        "Every finding needs a decision: mechanical, or an expert call",
+        "Manual review does not scale across branches and repos"
+      ]
+    },
+    "10": {
+      "kicker": "Holding zero",
+      "headline": [
+        "Sourcegraph detects.",
+        "The code host enforces."
+      ],
+      "bullets": [
+        "Sourcegraph detects regressions; the code host enforces the merge gate",
+        "The guard query runs on every pull request: under 1 second per query",
+        "Parasoft verification scan in the pipeline is the evidence of record",
+        "Code Monitor scans future changes and notifies on regressions"
+      ]
+    }
+  },
+  "end_card": {
+    "scene": "11",
+    "headline": [
+      "Verified zero.",
+      "Revertable, rule by rule."
+    ],
+    "product": "The Rule 7.5 Zero Program",
+    "footnote": "Sourcegraph Cloud + Parasoft C/C++test 2026.1.3 on iso14229. Residuals routed to expert review."
+  },
+  "thumbnail": {
+    "title": [
+      "MISRA findings",
+      "1,095 to 766"
+    ],
+    "subtitle": "Sourcegraph + Parasoft",
+    "product": "The Rule 7.5 Zero Program",
+    "badge": {
+      "from": "5",
+      "to": "0",
+      "caption": "rule classes at zero"
+    }
+  },
+  "masks": []
+}

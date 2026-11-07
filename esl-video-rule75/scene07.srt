@@ -1,0 +1,16 @@
+1
+00:00:00,100 --> 00:00:01,937
+Now scale up.
+
+2
+00:00:01,887 --> 00:00:05,125
+The whole repository, no seed involved.
+
+3
+00:00:05,125 --> 00:00:08,175
+One thousand and ninety five findings.
+
+4
+00:00:08,175 --> 00:00:15,862
+The biggest mechanical classes are assert macro artifacts, implicit integer tests, and missing unsigned suffixes.
+

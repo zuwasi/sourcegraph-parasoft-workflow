@@ -1,0 +1,20 @@
+1
+00:00:00,100 --> 00:00:03,800
+Each fix is one commit on its own stacked branch.
+
+2
+00:00:03,750 --> 00:00:08,712
+The assert macro rewrite removes one hundred and twenty three findings.
+
+3
+00:00:08,712 --> 00:00:11,837
+Unsigned typedefs remove sixty eight.
+
+4
+00:00:11,837 --> 00:00:15,237
+Explicit comparisons remove thirty four.
+
+5
+00:00:15,237 --> 00:00:18,862
+Reversing any step is one git command.
+

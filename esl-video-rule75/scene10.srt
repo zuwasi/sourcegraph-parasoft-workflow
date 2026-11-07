@@ -1,0 +1,20 @@
+1
+00:00:00,100 --> 00:00:02,062
+Holding zero.
+
+2
+00:00:02,012 --> 00:00:05,950
+Sourcegraph detects, and the code host enforces.
+
+3
+00:00:05,950 --> 00:00:10,062
+The same query runs on every pull request in under a second.
+
+4
+00:00:10,062 --> 00:00:12,700
+Parasoft runs in the pipeline.
+
+5
+00:00:12,700 --> 00:00:15,562
+Code Monitor watches for regressions.
+
