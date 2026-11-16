@@ -601,7 +601,7 @@ S.append('''<section class="slide tall"><div class="inner">
 S.append('''<section class="slide"><div class="inner">
   <div class="eyebrow"><span class="mark"></span>Thank you · 28</div>
   <h1>Run the same loop on your code base</h1>
-  <p class="subtitle">The pattern generalizes: seed it, measure it with Parasoft, find it with Sourcegraph, fix it with a versioned script, verify zero, hold zero</p>
+  <p class="subtitle">With Sourcegraph Code Monitor you can review new violations as they appear, and Batch Changes reverts them just as fast: seed it, measure it with Parasoft, find it with Sourcegraph, fix it with a versioned script, verify zero, hold zero</p>
   <div class="brandrow">
     <div class="brandchip ps"><img src="../assets/parasoft-logo.png" alt="Parasoft"><span>Parasoft C/C++test</span></div>
     <div class="brandchip sg"><img src="../assets/SG-logo.png" alt="Sourcegraph"><span>Sourcegraph Cloud</span></div>
@@ -616,7 +616,7 @@ S.append('''<section class="slide"><div class="inner">
   </div>
   <div class="contact">
     <img src="../assets/esl-logo.png" alt="ESL - Engineering Software Lab">
-    <p><a href="https://eswlab.com/" target="_blank" rel="noopener">eswlab.com</a> · <a href="https://eswlab.com/contact-us/" target="_blank" rel="noopener">Contact ESL</a> · Watch the recorded demo (2 min 47 s): <a href="https://www.youtube.com/watch?v=StzLdcFgW-E" target="_blank" rel="noopener">youtube.com/watch?v=StzLdcFgW-E</a> &middot; Companion brief: <a href="https://zuwasi.github.io/Public-html-pages/parasoft-cuda-bridge/technical/" target="_blank" rel="noopener">Parasoft CUDA Bridge</a></p>
+    <p><a href="https://eswlab.com/" target="_blank" rel="noopener">eswlab.com</a> · <a href="https://eswlab.com/contact-us/" target="_blank" rel="noopener">Contact ESL</a> · Watch the recorded demo (2 min 55 s): <a href="https://www.youtube.com/watch?v=StzLdcFgW-E" target="_blank" rel="noopener">youtube.com/watch?v=StzLdcFgW-E</a> &middot; Companion brief: <a href="https://zuwasi.github.io/Public-html-pages/parasoft-cuda-bridge/technical/" target="_blank" rel="noopener">Parasoft CUDA Bridge</a></p>
   </div>
   <div class="foot">All measurements from 3-7 November 2026. Sources: Parasoft C/C++test HTML/XML reports (1,095 / 766 / 8 / 0), the eswlab.sourcegraphcloud.com tenant (all query counts), and the git history of github.com/zuwasi/iso14229.</div>
 </div></section>''')

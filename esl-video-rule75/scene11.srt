@@ -1,8 +1,12 @@
 1
-00:00:00,100 --> 00:00:05,300
-The Rule 7.5 Zero Program, by Engineering Software Lab.
+00:00:00,100 --> 00:00:07,875
+With Sourcegraph Code Monitor, you can review new violations as they appear, and Batch Changes reverts them just as fast.
 
 2
-00:00:05,250 --> 00:00:07,200
+00:00:07,825 --> 00:00:12,975
+The Rule 7.5 Zero Program, by Engineering Software Lab.
+
+3
+00:00:12,975 --> 00:00:14,925
 Thank you for watching.
 

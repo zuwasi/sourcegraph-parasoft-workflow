@@ -42,4 +42,4 @@ Holding zero. Sourcegraph detects, and the code host enforces. The same query ru
 
 ## Scene 11
 
-The Rule 7.5 Zero Program, by Engineering Software Lab. Thank you for watching.
+With Sourcegraph Code Monitor, you can review new violations as they appear, and Batch Changes reverts them just as fast. The Rule 7.5 Zero Program, by Engineering Software Lab. Thank you for watching.

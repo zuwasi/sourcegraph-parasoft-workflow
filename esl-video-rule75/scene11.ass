@@ -10,5 +10,6 @@ Style: Default,Segoe UI,36,&H00FFFFFF,&H00FFFFFF,&H00171717,&H80000000,0,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.10,0:00:05.30,Default,,0,0,0,,The Rule 7.5 Zero Program, by Engineering Software Lab.
-Dialogue: 0,0:00:05.25,0:00:07.20,Default,,0,0,0,,Thank you for watching.
+Dialogue: 0,0:00:00.10,0:00:07.87,Default,,0,0,0,,With Sourcegraph Code Monitor, you can review new violations as they appear, and Batch Changes reverts them just as fast.
+Dialogue: 0,0:00:07.82,0:00:12.97,Default,,0,0,0,,The Rule 7.5 Zero Program, by Engineering Software Lab.
+Dialogue: 0,0:00:12.97,0:00:14.92,Default,,0,0,0,,Thank you for watching.

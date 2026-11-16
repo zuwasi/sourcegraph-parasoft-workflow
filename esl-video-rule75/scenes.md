@@ -20,7 +20,7 @@ GitHub fork, or the real Parasoft C/C++test reports.
 | 08 | One commit per branch | GitHub fork branch list | Show revertability | Each fix is one commit on its own stacked branch. The assert macro rewrite removes one hundred and twenty three findings. Unsigned typedefs remove sixty eight. Explicit comparisons remove thirty four. Reversing any step is one git command. | 16 |
 | 09 | One scan confirms it | Parasoft verification report, whole repository | Prove the total | One verification scan confirms it. One thousand and ninety five becomes seven hundred and sixty six. Three hundred and twenty nine findings removed by mechanical rewrites, and five rule classes now sit at zero. | 14 |
 | 10 | Holding zero | ESL slide | Keep it at zero | Holding zero. Sourcegraph detects, and the code host enforces. The same query runs on every pull request in under a second. Parasoft runs in the pipeline. Code Monitor watches for regressions. | 15 |
-| 11 | End | End card | Close | The Rule 7.5 Zero Program, by Engineering Software Lab. Thank you for watching. | 7 |
+| 11 | End | End card | Close | With Sourcegraph Code Monitor, you can review new violations as they appear, and Batch Changes reverts them just as fast. The Rule 7.5 Zero Program, by Engineering Software Lab. Thank you for watching. | 14 |
 
 Rules: one idea per scene, short spoken sentences, narration roughly as long as the recording
 (trim happens in phase 4, never stretch).
