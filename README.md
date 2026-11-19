@@ -8,7 +8,7 @@ Sourcegraph finds, Parasoft decides, versioned scripts fix at scale, everything 
 | Artifact | URL |
 |---|---|
 | Technical brief, 28 slides | https://zuwasi.github.io/Public-html-pages/misra-rule-7-5-zero-program/technical/index.html |
-| Demo video (2:47, narrated, subtitled) | https://www.youtube.com/watch?v=StzLdcFgW-E |
+| Demo video (2:55, narrated, subtitled) | https://www.youtube.com/watch?v=ZNPqVLcTY6A |
 | YouTube thumbnail | `esl-video-rule75/output/youtube-thumbnail.jpg` |
 | Transcript | `esl-video-rule75/transcript.md` |
 | Demo repository (public fork) | https://github.com/zuwasi/iso14229 |
